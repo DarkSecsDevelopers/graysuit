@@ -12,7 +12,7 @@ I don't want to make the page as a **story book**. ;)
 ## Projects
 I have been working with **Phishing**, **Keyloggers**, **Trojan** and **Viruses**, **video libraries** etc.
 
-## Contact me :
+## Contact 
 Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a><br>
 Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b><br>
 Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a>
