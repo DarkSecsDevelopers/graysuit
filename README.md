@@ -9,4 +9,5 @@ I have been working with **Phishing**, **Keyloggers**, **Trojan** and **Viruses*
 ## Contact 
 Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a><br>
 Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b><br>
-Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a>
+Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a><br>
+Discord: <a href="https://discord.gg/Hu5XPGMTuk"><b>Fishes</b></a><br>
