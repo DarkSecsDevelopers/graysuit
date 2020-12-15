@@ -1,10 +1,10 @@
 ## About 
 I am an **uncertified** and **self-taught programmer** who believes in performance with **minimal** and **native** code. 
 ## Experience
-**Platforms:** windows, linux, android.
-**Programming:** C++, VB, C#, js, php, ps, py.
-**Scripting:** cmd, bash, vbs, hta, js.
-**Softwares:** visual studio (.net forms, xamarin, mfc) , basic4android.
+**Platforms:** windows, linux, android.<br>
+**Programming:** C++, VB, C#, js, php, ps, py.<br>
+**Scripting:** cmd, bash, vbs, hta, js.<br>
+**Softwares:** visual studio (.net forms, xamarin, mfc) , basic4android.<br>
 ## Projects
 I have been working with **Phishing**, **Keyloggers**, **Trojan** and **Viruses**, **video libraries** etc.
 ## Contact 
