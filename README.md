@@ -6,7 +6,7 @@ I am an **uncertified** and **self-taught programmer** who believes in performan
 **Scripting:** cmd, bash, vbs, hta, js.<br>
 **Softwares:** visual studio (.net forms, xamarin, mfc) , basic4android.<br>
 ## Projects
-I have been working with **Phishing**, **Keyloggers**, **Trojan** and **Viruses**, **video libraries** etc.
+I have been working with **Phishing**, **Keyloggers**, **Trojan** and **Viruses**, **Video libraries** etc.
 ## Contact 
 Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a><br>
 Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b><br>
