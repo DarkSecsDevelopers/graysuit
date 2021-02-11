@@ -1,10 +1,5 @@
 ## About 
 I am an **uncertified** and **self-taught programmer** who believes in performance with **minimal** and **native** code. 
-
-<p align="right">
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=graysuit&show_icons=true&theme=dark">
-</p>
-
 ## Experience
 **Platforms:** windows, linux, android.<br>
 **Programming:** C++, VB, C#, js, php, ps, py.<br>
