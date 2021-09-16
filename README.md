@@ -12,5 +12,5 @@ I used **Winforms** a lot due to ease, But NOT satisfied due to slow speed, so t
 I used quite no. of **Video libraries** including <a href=github.com/rockcarry/fanplayer>ffmpeg</a>, <a href=videolan.org/vlc/libvlc.html>libvlc</a>, <a href=github.com/ZeBobo5/Vlc.DotNet>vlc.dotnet</a>, <a href=github.com/videolan/libvlcsharp>libvlcsharp</a>, <a href=exoplayer.dev>exoplayer</a>, windows media player etc.
 ## Contact 
 If you like to hire, contact at: <a href="https://www.fiverr.com/grayprogrammerz"><b>fiverr</b></a><br>
-If you need help or have suggestion, join <a href="http://graysuit.github.io"><b>Discord group</b></a> or privately Email at <a href="mailto:hackrefisher@gmail.com"><b>hackrefisher@gmail.com</b></a></b><br>
+If you need help or have suggestion, join <a href="http://graysuit.github.io"><b>Discord group</b></a><br>
 I do rarely write <a href="https://tiplava.blogspot.com/"><b>blogs</b></a> as well.<br>
